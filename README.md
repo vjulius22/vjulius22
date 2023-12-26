@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm i'm VIctor from Nigeria. i love programming. when i grow up i want to be a software engine. i started in this field on 20/21</h1>
 <h3 align="center">i am a frontend developer from nigeria</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
